@@ -1,0 +1,31 @@
+<html>
+<head>
+<tittle>  the beggining</tittle>
+</head>
+<body>
+<h1><pre>         BEGINNER                       </PRE>
+<img src="C:\Users\user\Desktop\0002\bmw  height="315"/>
+<ul>
+<li> wed page 1</li>
+<li>web page 2</li>
+</ul>
+<ol type="disk">
+<li> web page 3</li>
+<li>web  page 4</li>
+</ol>
+<table>
+<tr>
+<th>   name</th>
+<th>   roll no</th>
+</tr>
+<tr>
+<td> tejash</td>
+<td>  49</td>
+</tr>
+<form>
+<form action="/action.php">
+<labelfor="101">
+<input type="radio"  value="class 9" name="class 9"     id='"101">
+</label
+</body>
+</html>
